@@ -1,5 +1,5 @@
 # Basic Lisp usage
-This file contains simple examples of different basic syntax operations in lisp
+This file contains simple examples of different basic syntax operations in lisp.
 
 ## Code execution
 To run this code you need to install any Lisp interpreter (I used SBCL in windows).
